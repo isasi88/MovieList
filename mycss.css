@@ -1,0 +1,17 @@
+body {background: #f0f0f0;
+	font-family: "Arial";}
+
+.movies {
+	padding: 30px;
+	background: #fff;
+	text-align: center;	
+	width: 50%;
+	margin: auto;
+}
+
+input {
+	margin: 5px;
+	padding: 10px;
+	border-radius: 6px;
+	border: 1px solid #ccc;
+}
